@@ -1,5 +1,6 @@
 # YZM212_Lab1
 Makine Öğrenmesi ödevleri için oluşturulmuş GitHub deposu.
+Veri setim: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 İkili sınıflandırma için diyabet ve diyabeti etkiliyebilecek olan durumların bulunduğu bir veri seti seçtim. Veri setimde 769 satır, 9 adet sütun içermektedir. Veri setim sürekli veriler içeriyordu bundan dolayı Gaussian naive bayes modelini kullandım. Bunların sonucunda aşağıdaki karmaşıklık matrisini elde ettim.
 ![alt text](image-1.png)
